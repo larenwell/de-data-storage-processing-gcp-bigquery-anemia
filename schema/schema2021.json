@@ -1,0 +1,192 @@
+[
+    {
+      "mode": "NULLABLE",
+      "name": "Diresa",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Red",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Microred",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "EESS",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Dpto_EESS",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Prov_EESS",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Dist_EESS",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Renipress",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "FechaAtencion",
+      "type": "STRING"
+    },
+    {	
+      "mode": "NULLABLE",	
+      "name": "Pais",	
+      "type": "STRING"	
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Sexo",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "FechaNacimiento",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "EdadMeses",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "UbigeoPN",
+      "type": "FLOAT"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "DepartamentoPN",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "ProvinciaPN",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "DistritoPN",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "CentroPobladoPN",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Juntos",
+      "type": "INTEGER"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "SIS",
+      "type": "INTEGER"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Pin",
+      "type": "INTEGER"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Qaliwarma",
+      "type": "INTEGER"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Peso",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Talla",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Hemoglobina",
+      "type": "FLOAT"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "FechaHemoglobina",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Cred",
+      "type": "INTEGER"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Suplementacion",
+      "type": "INTEGER"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Consejeria",
+      "type": "INTEGER"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Sesion",
+      "type": "INTEGER"
+    },
+    {	
+      "mode": "NULLABLE",	
+      "name": "MES",	
+      "type": "INTEGER"	
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "UbigeoREN",
+      "type": "INTEGER"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "DEPARTAMENTO",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "PROVINCIA",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "DISTRITO",
+      "type": "STRING"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "ALTITUD",
+      "type": "INTEGER"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "HBC",
+      "type": "FLOAT"
+    },
+    {
+      "mode": "NULLABLE",
+      "name": "Dx_Anemia",
+      "type": "STRING"
+    }
+  ]
